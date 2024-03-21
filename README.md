@@ -1,5 +1,4 @@
 <h1 align="center">Mahmud Hasan (Mehedi)</h1><br>
-🌱 I’m currently learning PHP<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud-hasan-mehedi&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-hasan-mehedi"  /> </p>
 
